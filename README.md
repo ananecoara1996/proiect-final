@@ -12,11 +12,11 @@ Proiectul a fost implementat utilizand exclusiv librariile standard din Python, 
 *   **Time Management:** `datetime` (Formatarea cronologica a inregistrarilor).
 
 ## Structura Proiectului (Module)
-*   'main.py' -> Punctul de pornire al aplicatiei. Gestioneaza bucla infinita a meniului interactiv din consola (optiunile 1-11).
-*   'manager.py' -> Logica de business. Defineste clasa POO de model ('Tranzactie') si controlerul `AplicatieManager` responsabil de rutarea comenzilor.
-*   'database.py' -> -> Abstractizarea bazei de date. Contine clasa `DataBaseManager` care rulează interogarile SQL, deschide conexiunile si izoleaza codul SQL pur.
-*   'main_gui.py' -> Interfata grafica desktop autonoma, care ruleaza operatiunile CRUD in mod vizual.
-*   'app.log' -> Fisier generat automat de sistemul de logging pentru stocarea istoricului tehnic al actiunilor.
+*   `main.py` -> Punctul de pornire al aplicatiei. Gestioneaza bucla infinita a meniului interactiv din consola (optiunile 1-11).
+*   `manager.py` -> Logica de business. Defineste clasa POO de model ('Tranzactie') si controlerul `AplicatieManager` responsabil de rutarea comenzilor.
+*   `database.py` -> -> Abstractizarea bazei de date. Contine clasa `DataBaseManager` care rulează interogarile SQL, deschide conexiunile si izoleaza codul SQL pur.
+*   `main_gui.py` -> Interfata grafica desktop autonoma, care ruleaza operatiunile CRUD in mod vizual.
+*   `app.log` -> Fisier generat automat de sistemul de logging pentru stocarea istoricului tehnic al actiunilor.
 
 ## Mod de Instalare si Rulare
 
