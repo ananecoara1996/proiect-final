@@ -80,7 +80,7 @@ class InterfataGrafica:
 
         #Crearea etichetei pentru modul de plata la linia 2, coloana 2
         tk.Label(frame_form, text="Metoda Plata:").grid(row=2, column=2, sticky="w")
-        self.cb_metoda = ttk.Combobox(frame_form, values=["Card", "Cash", "Transfer"], width=15, state="readonly")
+        self.cb_metoda = ttk.Combobox(frame_form, values=["Card", "Cash", "Transfer bancar"], width=15, state="readonly")
         self.cb_metoda.grid(row=2, column=3, padx=5, pady=5)
         self.cb_metoda.current(0)
 
