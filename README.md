@@ -57,7 +57,7 @@ Sold total: 11240.5 RON (Venituri: 15000.0) | Cheltuieli: 3759.5
 ```
 
 ### 2. Managementul Vizual CRUD (`main_gui.py`)
-*   **Adaugare (Create):** Introdu denumirea, suma, selecteaza tipul din meniul 'Combobox' securizat (readonly) si apasa butonul verde *Adauga (Create)*.
+*   **Adaugare (Create):** Introdu denumirea, suma, selecteaza tipul din meniul `Combobox` securizat (readonly) si apasa butonul verde *Adauga (Create)*.
 *   **Vizualizare (Read):** Datele sunt citite automat din SQLite si afisate in grila `Treeview`. Bara de sumar calculeaza dinamic profitul net la fiecare modificare.
 *   **Actualizare (Update):** Selecteaza o linie din tabel, tasteaza noua data in formular si apasa butonul portocaliu *Modifica Data (Update)*.
 *   **Stergere (Delete):** Selecteaza orice tranzactie si apasa butonul rosu *Sterge Rand (Delete)* pentru eliminarea ei definitiva din baza de date.
