@@ -50,7 +50,7 @@ La rulare, sistemul afiseaza un meniu numeric cu 11 optiuni:
 8. Analiza economii (Genereaza Raport Text)
 11. Iesire
 ```
-Daca selectezi optiunea `6`, programul va interoga tabelele și va afișa:
+Daca selectezi optiunea `6`, programul va interoga tabelele si va afisa:
 ```text
 --- Afisare Sold Total ---
 Sold total: 11240.5 RON (Venituri: 15000.0) | Cheltuieli: 3759.5
