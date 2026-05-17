@@ -26,8 +26,8 @@ Programul trebuie sa dispuna de un meniu care ne pune la dispozitie urmatoarele 
 11. Iesire
 
 
-Implementarea programului trebuie sa utilizeze conceptele de programare orientata pe obiect, cum ar fi clase, obiecte, polimorfism, incapsulare si abstractizare.
-Si o baza de date SQLlite pentru stocarea informatiilor si o aplicatie GUI realizata in Tkinter.
+Implementarea programului trebuie sa utilizeze conceptele de programare orientata pe obiect, 
+o baza de date SQLlite pentru stocarea informatiilorsi o aplicatie GUI realizata in Tkinter.
 
 '''
 
