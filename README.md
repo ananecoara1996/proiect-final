@@ -4,7 +4,7 @@ Aplicatie modulara in Python conceputa pentru inregistrarea, filtrarea si genera
 
 ## Tehnologii utilizate
 
-Proiectul a fost implementat utilizand exclusiv librariile standard din Python, eliminand complet necesitatea instalarii unor dependențe terte (fara pachete externe de tip `pip install`):
+Proiectul a fost implementat utilizand exclusiv librariile standard din Python, eliminand complet necesitatea instalarii unor dependente terte (fara pachete externe de tip `pip install`):
 *   **Core:** Python 3.11
 *   **Database:** `sqlite3` (Baza de date relationala locala tranzactionala).
 *   **GUI:** `tkinter` & `tkinter.ttk` (Interfata grafica desktop).
