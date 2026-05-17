@@ -133,7 +133,7 @@ class InterfataGrafica:
             self.tabel.delete(i)
 
         #Preluarea si curatarea textului din caseta de filtrare rapida   
-        filtru = self.ent_filtru.get().strip()
+        filtru = self.ent_filtru.get().strip().capitalize()
 
         #Stabilirea setului de date in functie de prezenta sau absenta filtrului
         if filtru:
