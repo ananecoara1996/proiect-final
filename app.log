@@ -339,3 +339,147 @@
 2026-05-17 13:05:58,148 - INFO - Interfata Grafica: Tabelul a fost incarcat cu istoricul complet.
 2026-05-17 13:05:58,148 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
 2026-05-17 13:05:58,148 - INFO - Suma totala pentru tipul 'Cheltuiala': 3759.5 RON.
+2026-05-17 13:28:31,891 - INFO - Tabela 'tranzactii' a fost verificata/creata.
+2026-05-17 13:28:37,513 - INFO - Tabela 'tranzactii' a fost verificata/creata.
+2026-05-17 13:28:39,012 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 13:28:39,012 - INFO - Suma totala pentru tipul 'Cheltuiala': 3759.5 RON.
+2026-05-17 14:35:27,054 - INFO - Tabela 'tranzactii' a fost verificata/creata.
+2026-05-17 14:35:27,054 - INFO - Aplicatia Manager de Cheltuieli a pornit din modulul principal main.py.
+2026-05-17 14:35:29,081 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 1
+2026-05-17 14:35:54,563 - INFO - Tranzactia a fost inserata: Abonament Netflix, 72.0 RON, Cheltuiala
+2026-05-17 14:36:23,624 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 2
+2026-05-17 14:36:27,859 - INFO - Cautare reusita pentru ID: 10.
+2026-05-17 14:36:38,362 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 3
+2026-05-17 14:37:13,878 - INFO - Data tranzactiei cu ID 12 a fost modificata in 09-05-2026
+2026-05-17 14:37:52,881 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 5
+2026-05-17 14:37:52,895 - INFO - S-au extras toate inregistrarile din baza de date  gasite. S-au gasit 18 rezultate.
+2026-05-17 14:38:12,041 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 6
+2026-05-17 14:38:12,041 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 14:38:12,041 - INFO - Suma totala pentru tipul 'Cheltuiala': 3831.5 RON.
+2026-05-17 14:38:16,977 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 7
+2026-05-17 14:38:27,618 - INFO - Suma calculata pentru tipul 'Cheltuiala' si categoria 'Utilitati': 1800.0 RON.
+2026-05-17 14:38:51,601 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 8
+2026-05-17 14:38:51,601 - INFO - S-au extras toate inregistrarile din baza de date  gasite. S-au gasit 18 rezultate.
+2026-05-17 14:38:51,601 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 14:38:51,601 - INFO - Suma totala pentru tipul 'Cheltuiala': 3831.5 RON.
+2026-05-17 14:38:51,601 - INFO - A fost generat raportul de analiza financiara text 'raport_financiar.txt'.
+2026-05-17 14:39:12,909 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 9
+2026-05-17 14:39:16,854 - INFO - Filtrare efectuata dupa tipul 'Venit'. S-au gasit 3 rezultate.
+2026-05-17 14:39:22,355 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 9
+2026-05-17 14:39:24,894 - INFO - Filtrare efectuata dupa tipul 'Cheltuiala'. S-au gasit 15 rezultate.
+2026-05-17 14:39:32,354 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 10
+2026-05-17 14:39:41,620 - INFO - Filtrare efectuata dupa luna: '05/2026'. S-au gasit 0 rezultate.
+2026-05-17 14:39:49,234 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 05.2026
+2026-05-17 14:39:49,234 - WARNING - Meniu Consola: Comanda invalida introdusa in terminal: '05.2026'.
+2026-05-17 14:39:54,268 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 10
+2026-05-17 14:39:57,996 - INFO - Filtrare efectuata dupa luna: '2026'. S-au gasit 18 rezultate.
+2026-05-17 14:40:08,151 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 2026.05
+2026-05-17 14:40:08,151 - WARNING - Meniu Consola: Comanda invalida introdusa in terminal: '2026.05'.
+2026-05-17 14:40:11,566 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 10
+2026-05-17 14:40:15,169 - INFO - Filtrare efectuata dupa luna: '2026.05'. S-au gasit 0 rezultate.
+2026-05-17 14:40:21,081 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 10
+2026-05-17 14:40:22,677 - INFO - Filtrare efectuata dupa luna: '05'. S-au gasit 16 rezultate.
+2026-05-17 14:40:38,623 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 11
+2026-05-17 14:40:38,623 - INFO - Aplicatia a fost inchisa voluntar prin selectarea optiunii 11.
+2026-05-17 15:06:21,132 - INFO - Tabela 'tranzactii' a fost verificata/creata.
+2026-05-17 15:06:21,132 - INFO - Aplicatia Manager de Cheltuieli a pornit din modulul principal main.py.
+2026-05-17 15:06:24,920 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 1
+2026-05-17 15:07:55,856 - INFO - Tabela 'tranzactii' a fost verificata/creata.
+2026-05-17 15:07:55,856 - INFO - Aplicatia Manager de Cheltuieli a pornit din modulul principal main.py.
+2026-05-17 15:08:01,683 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 1
+2026-05-17 15:08:19,625 - INFO - Tranzactia a fost inserata: Cumparaturi Lidl, 56.0 RON, Cheltuiala
+2026-05-17 15:08:47,702 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 2
+2026-05-17 15:08:49,813 - INFO - Cautare reusita pentru ID: 6.
+2026-05-17 15:09:02,587 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 4
+2026-05-17 15:09:24,561 - WARNING - Tranzactia cu ID 13 a fost stearsa definitiv.
+2026-05-17 15:09:39,689 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 6
+2026-05-17 15:09:39,689 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:09:39,689 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:09:48,697 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 8
+2026-05-17 15:09:48,704 - INFO - S-au extras toate inregistrarile din baza de date  gasite. S-au gasit 18 rezultate.
+2026-05-17 15:09:48,704 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:09:48,704 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:09:48,704 - INFO - A fost generat raportul de analiza financiara text 'raport_financiar.txt'.
+2026-05-17 15:10:21,551 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: C:\Users\anane\AppData\Local\Programs\Python\Python311\python.exe c:/Users/anane/Documents/GitHub/proiect-final/main_gui.py
+2026-05-17 15:10:21,551 - WARNING - Meniu Consola: Comanda invalida introdusa in terminal: 'C:\Users\anane\AppData\Local\Programs\Python\Python311\python.exe c:/Users/anane/Documents/GitHub/proiect-final/main_gui.py'.
+2026-05-17 15:10:24,933 - INFO - Meniu Consola: Utilizatorul a selectat optiunea: 11
+2026-05-17 15:10:24,948 - INFO - Aplicatia a fost inchisa voluntar prin selectarea optiunii 11.
+2026-05-17 15:10:30,354 - INFO - Tabela 'tranzactii' a fost verificata/creata.
+2026-05-17 15:10:30,360 - INFO - Interfata Grafica: Toate componentele vizuale au fost pozitionate.
+2026-05-17 15:10:30,363 - INFO - S-au extras toate inregistrarile din baza de date  gasite. S-au gasit 18 rezultate.
+2026-05-17 15:10:30,363 - INFO - Interfata Grafica: Tabelul a fost incarcat cu istoricul complet.
+2026-05-17 15:10:30,363 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:10:30,365 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:11:40,104 - INFO - Tranzactia a fost inserata: Salariu, 3000.0 RON, Venit
+2026-05-17 15:11:40,104 - INFO - Interfata Grafica: Tranzactia 'Salariu' a fost inserata cu succes.
+2026-05-17 15:11:40,104 - INFO - S-au extras toate inregistrarile din baza de date  gasite. S-au gasit 19 rezultate.
+2026-05-17 15:11:40,104 - INFO - Interfata Grafica: Tabelul a fost incarcat cu istoricul complet.
+2026-05-17 15:11:40,104 - INFO - Suma totala pentru tipul 'Venit': 18000.0 RON.
+2026-05-17 15:11:40,104 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:14:32,608 - INFO - Tabela 'tranzactii' a fost verificata/creata.
+2026-05-17 15:14:32,614 - INFO - Interfata Grafica: Toate componentele vizuale au fost pozitionate.
+2026-05-17 15:14:32,615 - INFO - S-au extras toate inregistrarile din baza de date  gasite. S-au gasit 19 rezultate.
+2026-05-17 15:14:32,615 - INFO - Interfata Grafica: Tabelul a fost incarcat cu istoricul complet.
+2026-05-17 15:14:32,615 - INFO - Suma totala pentru tipul 'Venit': 18000.0 RON.
+2026-05-17 15:14:32,616 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:15:08,220 - WARNING - Tranzactia cu ID 24 a fost stearsa definitiv.
+2026-05-17 15:15:08,220 - INFO - Interfata Grafica: Tranzactia cu ID-ul 24 a fost eliminata cu succes din baza de date.
+2026-05-17 15:15:08,220 - INFO - S-au extras toate inregistrarile din baza de date  gasite. S-au gasit 18 rezultate.
+2026-05-17 15:15:08,220 - INFO - Interfata Grafica: Tabelul a fost incarcat cu istoricul complet.
+2026-05-17 15:15:08,227 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:15:08,227 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:15:13,054 - INFO - Filtrare efectuata dupa luna: '04'. S-au gasit 2 rezultate.
+2026-05-17 15:15:13,054 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:15:13,054 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:15:18,014 - INFO - Filtrare efectuata dupa luna: '05'. S-au gasit 16 rezultate.
+2026-05-17 15:15:18,014 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:15:18,019 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:15:25,571 - INFO - Filtrare efectuata dupa luna: '2026'. S-au gasit 18 rezultate.
+2026-05-17 15:15:25,571 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:15:25,576 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:15:33,696 - INFO - Filtrare efectuata dupa luna: 'Venit'. S-au gasit 0 rezultate.
+2026-05-17 15:15:33,701 - INFO - Filtrare efectuata dupa tipul 'Venit'. S-au gasit 3 rezultate.
+2026-05-17 15:15:33,701 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:15:33,701 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:15:42,538 - INFO - Filtrare efectuata dupa luna: 'cheltuiala'. S-au gasit 0 rezultate.
+2026-05-17 15:15:42,538 - INFO - Filtrare efectuata dupa tipul 'cheltuiala'. S-au gasit 0 rezultate.
+2026-05-17 15:15:42,540 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:15:42,540 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:15:47,790 - INFO - Filtrare efectuata dupa luna: 'Cheltuiala'. S-au gasit 0 rezultate.
+2026-05-17 15:15:47,790 - INFO - Filtrare efectuata dupa tipul 'Cheltuiala'. S-au gasit 15 rezultate.
+2026-05-17 15:15:47,790 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:15:47,790 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:16:54,256 - INFO - Tabela 'tranzactii' a fost verificata/creata.
+2026-05-17 15:16:54,262 - INFO - Interfata Grafica: Toate componentele vizuale au fost pozitionate.
+2026-05-17 15:16:54,263 - INFO - S-au extras toate inregistrarile din baza de date  gasite. S-au gasit 18 rezultate.
+2026-05-17 15:16:54,263 - INFO - Interfata Grafica: Tabelul a fost incarcat cu istoricul complet.
+2026-05-17 15:16:54,264 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:16:54,264 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:17:00,860 - INFO - Filtrare efectuata dupa luna: 'Venit'. S-au gasit 0 rezultate.
+2026-05-17 15:17:00,860 - INFO - Filtrare efectuata dupa tipul 'Venit'. S-au gasit 3 rezultate.
+2026-05-17 15:17:00,860 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:17:00,860 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:17:07,746 - INFO - Filtrare efectuata dupa luna: 'Cheltuiala'. S-au gasit 0 rezultate.
+2026-05-17 15:17:07,746 - INFO - Filtrare efectuata dupa tipul 'Cheltuiala'. S-au gasit 15 rezultate.
+2026-05-17 15:17:07,746 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:17:07,746 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:17:12,258 - INFO - Filtrare efectuata dupa luna: 'Cheltuiala'. S-au gasit 0 rezultate.
+2026-05-17 15:17:12,258 - INFO - Filtrare efectuata dupa tipul 'Cheltuiala'. S-au gasit 15 rezultate.
+2026-05-17 15:17:12,258 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:17:12,258 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:17:12,877 - INFO - Filtrare efectuata dupa luna: 'Cheltuiala'. S-au gasit 0 rezultate.
+2026-05-17 15:17:12,877 - INFO - Filtrare efectuata dupa tipul 'Cheltuiala'. S-au gasit 15 rezultate.
+2026-05-17 15:17:12,877 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:17:12,877 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:17:13,258 - INFO - Filtrare efectuata dupa luna: 'Cheltuiala'. S-au gasit 0 rezultate.
+2026-05-17 15:17:13,258 - INFO - Filtrare efectuata dupa tipul 'Cheltuiala'. S-au gasit 15 rezultate.
+2026-05-17 15:17:13,258 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:17:13,258 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:17:18,282 - INFO - Filtrare efectuata dupa luna: 'Venit'. S-au gasit 0 rezultate.
+2026-05-17 15:17:18,282 - INFO - Filtrare efectuata dupa tipul 'Venit'. S-au gasit 3 rezultate.
+2026-05-17 15:17:18,282 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:17:18,282 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
+2026-05-17 15:23:03,897 - INFO - S-au extras toate inregistrarile din baza de date  gasite. S-au gasit 18 rezultate.
+2026-05-17 15:23:03,897 - INFO - Interfata Grafica: Tabelul a fost incarcat cu istoricul complet.
+2026-05-17 15:23:03,900 - INFO - Suma totala pentru tipul 'Venit': 15000.0 RON.
+2026-05-17 15:23:03,900 - INFO - Suma totala pentru tipul 'Cheltuiala': 3792.5 RON.
