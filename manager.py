@@ -27,7 +27,7 @@ Programul trebuie sa dispuna de un meniu care ne pune la dispozitie urmatoarele 
 
 
 Implementarea programului trebuie sa utilizeze conceptele de programare orientata pe obiect, 
-o baza de date SQLlite pentru stocarea informatiilorsi o aplicatie GUI realizata in Tkinter.
+o baza de date SQLlite pentru stocarea informatiilor si o aplicatie GUI realizata in Tkinter.
 
 '''
 
