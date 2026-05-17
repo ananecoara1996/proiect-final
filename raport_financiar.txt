@@ -1,0 +1,26 @@
+==========================================================================================================
+                                RAPORT MANAGEMENT FINANCIAR             
+                            Generat la data: 2026-05-17 12:37
+==========================================================================================================
+
+TOTAL VENITURI:     9000.00 RON
+TOTAL CHELTUIELI:   3259.50 RON
+SOLD NET DISPONIBIL: 5740.50 RON
+
+----------------------------------------- Istoric Detaliat  ----------------------------------------------
+Data: [2026-05-16] Cheltuiala - Abonament telefon | Suma: 50.0 RON | Cat: utilitati (card)
+Data: [2026-05-16] Cheltuiala - Fructe piata | Suma: 35.0 RON | Cat: Alimente (Cash)
+Data: [2026-05-16] Cheltuiala - Factura Gaz | Suma: 300.0 RON | Cat: Utilitati (Card)
+Data: [2026-05-15] Venit - Salariu | Suma: 4500.0 RON | Cat: Salariu (Transfer bancar)
+Data: [2026-05-15] Cheltuiala - Cumparaturi Kaufland | Suma: 235.0 RON | Cat: Alimente (Card)
+Data: [2026-05-13] Venit - Venit | Suma: 4500.0 RON | Cat: Salariu (Card)
+Data: [2026-05-13] Cheltuiala - Jucarii copil | Suma: 250.0 RON | Cat: Copil (card)
+Data: [2026-05-13] Cheltuiala - Legume piata | Suma: 72.0 RON | Cat: Alimente (cash)
+Data: [2026-05-10] Cheltuiala - Cumparaturi fructe/legume | Suma: 78.0 RON | Cat: Alimente (Cash)
+Data: [2026-04-30] Cheltuiala - Motorina | Suma: 150.5 RON | Cat: Transport (Card)
+Data: [12.05.2026] Cheltuiala - Cumparaturi LIDL | Suma: 95.0 RON | Cat: Alimente (Card)
+Data: [12.04.2026] Cheltuiala - Motorina | Suma: 260.0 RON | Cat: Transport (Card)
+Data: [10.05.2026] Cheltuiala - Chirie | Suma: 1500.0 RON | Cat: Utilitati ()
+Data: [10.05.2026] Cheltuiala - Cumparaturi Kaufland | Suma: 234.0 RON | Cat: Alimente (Card)
+
+========================================================================================================
