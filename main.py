@@ -106,7 +106,7 @@ def main():
             logging.warning(f"Meniu Consola: Comanda invalida introdusa in terminal: '{optiune}'.")
 
 
-#Rulează functia main() doar daca fisierul este pornit ca script principal
+#Ruleaza functia main() doar daca fisierul este pornit ca script principal
 if __name__ == "__main__":
     main()
 
